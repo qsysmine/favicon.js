@@ -14,7 +14,7 @@
     var getFavicon = function(url) {
       return fI(uP(url));
     };
-    var d(p,f) {
+    var d = function(p,f) {
       window[p] = window[p] ? window[p] : f;
     };
     d("getFavicon", getFavicon);
