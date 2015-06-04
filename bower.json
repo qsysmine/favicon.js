@@ -1,0 +1,24 @@
+{
+  "name": "Favicon JS",
+  "main": "favicon.js",
+  "version": "v0.0.0",
+  "homepage": "https://github.com/qsysmine/favicon.js",
+  "authors": [
+    "qsysmine <aris@qsysmine.tk>"
+  ],
+  "description": "A tiny javascript library to get the favicon URL from a website.",
+  "keywords": [
+    "favicon",
+    "javascript",
+    "tiny",
+    "minified"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
